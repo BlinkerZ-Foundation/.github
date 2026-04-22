@@ -15,6 +15,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 &nbsp;
 [![Open Collective](https://img.shields.io/badge/Support_Us-Open_Collective-2B81D6?style=flat&logo=opencollective&logoColor=white)](https://opencollective.com/blinkerzfoundation)
+&nbsp;
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/blinkerzfoundation)
 
 <br />
 <br />
@@ -68,14 +70,19 @@ We are currently building an interconnected ecosystem of tools designed to work 
 
 We don't sell data, and we don't lock core features behind paywalls. Our infrastructure and development are sustained by the community. 
 
-If you use our tools to manage your infrastructure, your life, or your organization, consider backing us on Open Collective. Your contributions go directly toward server costs and keeping the lights on.
+If you use our tools to manage your infrastructure, your life, or your organization, consider backing our project. Your contributions go directly toward server costs and keeping the lights on.
 
 <br />
 
 <a href="https://opencollective.com/blinkerzfoundation" target="_blank">
-  <img src="https://opencollective.com/webpack/images/logotype.svg" alt="Open Collective" height="32">
+  <img src="https://github.com/user-attachments/assets/2c9df92a-987b-4ce1-82e6-2d32c032b8e9" alt="Open Collective" height="40">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://buymeacoffee.com/blinkerzfoundation" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
 </a>
 
+<br />
 <br />
 <br />
 
